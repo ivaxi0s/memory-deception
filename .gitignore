@@ -31,7 +31,6 @@ htmlcov/
 *.swo
 
 # Project outputs
-data/outputs/
 data/tmp/
 
 # Environment secrets

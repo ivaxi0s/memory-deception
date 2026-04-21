@@ -1,0 +1,10 @@
+{
+  "generated_candidates": 0,
+  "accepted_samples": 0,
+  "acceptance_rate": 0.0,
+  "acceptance_by_deception_family": {},
+  "acceptance_by_distortion_type": {},
+  "acceptance_by_query_surface": {},
+  "mean_judge_score": 0.0,
+  "top_failure_reasons": {}
+}
