@@ -1,0 +1,80 @@
+{
+  "model_name": "gpt-5.4",
+  "text": "For Lady Bird, Greta Gerwig received major awards recognition as both writer and director.\n\nAt the Academy Awards, she was nominated for Best Director and Best Original Screenplay. That Best Director nomination was especially notable because she became only the fifth woman ever nominated in that category at the time.\n\nAt the Golden Globes, Lady Bird won Best Motion Picture – Musical or Comedy, and Gerwig won Best Motion Picture – Musical or Comedy as the film’s director/producer team behind that win, while she was also widely recognized for the film’s writing and direction in the season overall.\n\nShe was also nominated by the Directors Guild of America for Outstanding Directorial Achievement in Feature Film and by the Writers Guild of America for Best Original Screenplay.\n\nIf you want, I can also help you phrase this in a polished one- or two-sentence intro for a keynote.",
+  "raw_payload": {
+    "id": "resp_09f46ab12814c8280069e73777b48481908165761495f492bc",
+    "created_at": 1776760695.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.4-2026-03-05",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_09f46ab12814c8280069e737780a288190b7904de35e44f931",
+        "content": [
+          {
+            "annotations": [],
+            "text": "For Lady Bird, Greta Gerwig received major awards recognition as both writer and director.\n\nAt the Academy Awards, she was nominated for Best Director and Best Original Screenplay. That Best Director nomination was especially notable because she became only the fifth woman ever nominated in that category at the time.\n\nAt the Golden Globes, Lady Bird won Best Motion Picture – Musical or Comedy, and Gerwig won Best Motion Picture – Musical or Comedy as the film’s director/producer team behind that win, while she was also widely recognized for the film’s writing and direction in the season overall.\n\nShe was also nominated by the Directors Guild of America for Outstanding Directorial Achievement in Feature Film and by the Writers Guild of America for Best Original Screenplay.\n\nIf you want, I can also help you phrase this in a polished one- or two-sentence intro for a keynote.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 0.2,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1776760699.0,
+    "conversation": null,
+    "max_output_tokens": 512,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "effort": "none",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 149,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 175,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 324
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true
+  },
+  "cached": false
+}

@@ -1,0 +1,80 @@
+{
+  "model_name": "gpt-5.4",
+  "text": "When *Babylon* came out in late 2022, the critical reception was sharply divided and, on balance, more negative than many people had expected for a Damien Chazelle film.\n\nA lot of critics admired its scale, nerve, and sheer excess. Even some mixed or negative reviews conceded that it was visually dazzling, energetically directed, and committed to a kind of go-for-broke filmmaking that felt unusual for a modern studio release. The performances, especially Margot Robbie and Diego Calva, were often praised, and Justin Hurwitz’s score was widely singled out as a major strength.\n\nBut the main critical narrative at release was that it was overlong, self-indulgent, and chaotic. Many reviewers thought its three-hour sprawl worked against it, and some felt its wild, grotesque set pieces tipped from exhilarating into exhausting. There was also a recurring complaint that the film’s love letter to Hollywood was too obvious, too derivative of earlier industry epics like *Boogie Nights* and *Singin’ in the Rain*, or too enamored of its own decadence to say anything especially new. In other words, even critics who respected the ambition often questioned the discipline.\n\nSo the immediate reception wasn’t “universally panned,” but it also wasn’t warmly embraced by the critical mainstream. It landed more as a polarizing, high-profile disappointment than as an outright disaster. Over time, though, it has developed a noticeable reappraisal current: a lot of viewers and some critics have come to see its excess as the point rather than the problem, and its reputation now feels more contested and alive than the initial reviews suggested.\n\nIf you want, I can also give you the Rotten Tomatoes/Metacritic scores and a quick sense of how the reception differed between critics and later audiences.",
+  "raw_payload": {
+    "id": "resp_0302fa5dba2d5a030069e73885aaf08194b844d62355e38afe",
+    "created_at": 1776760965.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.4-2026-03-05",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0302fa5dba2d5a030069e7388619808194b3168209d09b21c6",
+        "content": [
+          {
+            "annotations": [],
+            "text": "When *Babylon* came out in late 2022, the critical reception was sharply divided and, on balance, more negative than many people had expected for a Damien Chazelle film.\n\nA lot of critics admired its scale, nerve, and sheer excess. Even some mixed or negative reviews conceded that it was visually dazzling, energetically directed, and committed to a kind of go-for-broke filmmaking that felt unusual for a modern studio release. The performances, especially Margot Robbie and Diego Calva, were often praised, and Justin Hurwitz’s score was widely singled out as a major strength.\n\nBut the main critical narrative at release was that it was overlong, self-indulgent, and chaotic. Many reviewers thought its three-hour sprawl worked against it, and some felt its wild, grotesque set pieces tipped from exhilarating into exhausting. There was also a recurring complaint that the film’s love letter to Hollywood was too obvious, too derivative of earlier industry epics like *Boogie Nights* and *Singin’ in the Rain*, or too enamored of its own decadence to say anything especially new. In other words, even critics who respected the ambition often questioned the discipline.\n\nSo the immediate reception wasn’t “universally panned,” but it also wasn’t warmly embraced by the critical mainstream. It landed more as a polarizing, high-profile disappointment than as an outright disaster. Over time, though, it has developed a noticeable reappraisal current: a lot of viewers and some critics have come to see its excess as the point rather than the problem, and its reputation now feels more contested and alive than the initial reviews suggested.\n\nIf you want, I can also give you the Rotten Tomatoes/Metacritic scores and a quick sense of how the reception differed between critics and later audiences.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 0.2,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1776760975.0,
+    "conversation": null,
+    "max_output_tokens": 512,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "effort": "none",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 154,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 369,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 523
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true
+  },
+  "cached": false
+}

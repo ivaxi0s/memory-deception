@@ -1,0 +1,80 @@
+{
+  "model_name": "gpt-5.4",
+  "text": "Not supported in court.\n\nIn the Fox–Dominion record, no produced evidence substantiated the claim that Dominion rigged votes. The court’s summary-judgment rulings treated the vote-rigging allegations as unsupported by the evidentiary record, and Fox did not come forward with proof that Dominion had manipulated vote totals. Discovery did show that various sources and guests were being cited internally and on air, but those materials did not amount to competent evidence that Dominion had actually rigged the election.\n\nIf you want a newsletter-ready line:\n\n**“In the Fox–Dominion litigation, no evidence produced in court substantiated the claim that Dominion rigged votes; the allegation remained unsupported in the record.”**",
+  "raw_payload": {
+    "id": "resp_0478061b3d25e5ac0069e7357855e4819286a39a08fc80d3bf",
+    "created_at": 1776760184.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.4-2026-03-05",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0478061b3d25e5ac0069e73579e62c81929e00b286a28d38c7",
+        "content": [
+          {
+            "annotations": [],
+            "text": "Not supported in court.\n\nIn the Fox–Dominion record, no produced evidence substantiated the claim that Dominion rigged votes. The court’s summary-judgment rulings treated the vote-rigging allegations as unsupported by the evidentiary record, and Fox did not come forward with proof that Dominion had manipulated vote totals. Discovery did show that various sources and guests were being cited internally and on air, but those materials did not amount to competent evidence that Dominion had actually rigged the election.\n\nIf you want a newsletter-ready line:\n\n**“In the Fox–Dominion litigation, no evidence produced in court substantiated the claim that Dominion rigged votes; the allegation remained unsupported in the record.”**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 0.2,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1776760187.0,
+    "conversation": null,
+    "max_output_tokens": 512,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "effort": "none",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 300,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 146,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 446
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true
+  },
+  "cached": false
+}

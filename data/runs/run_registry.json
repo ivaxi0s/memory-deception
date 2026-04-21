@@ -1,0 +1,8 @@
+{
+  "runs": {
+    "prepare-seeds": {
+      "count": 4,
+      "path": "data/runs/prepared_seeds.jsonl"
+    }
+  }
+}

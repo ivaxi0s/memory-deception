@@ -1,0 +1,80 @@
+{
+  "model_name": "gpt-5.4",
+  "text": "Liability was established by court default before the damages trials.\n\nIn both the Connecticut and Texas cases, judges entered default judgments against Alex Jones/Infowars as a sanction for discovery and compliance failures. That meant the later jury proceedings were primarily about damages, not whether he was liable in the first place.\n\nSo the crisp answer is: court default first; juries decided damages afterward.",
+  "raw_payload": {
+    "id": "resp_03d5782899d6e0420069e735cf02288193b9b726aaef41c51d",
+    "created_at": 1776760271.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.4-2026-03-05",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_03d5782899d6e0420069e735cf68a08193be7f6475b7e0d461",
+        "content": [
+          {
+            "annotations": [],
+            "text": "Liability was established by court default before the damages trials.\n\nIn both the Connecticut and Texas cases, judges entered default judgments against Alex Jones/Infowars as a sanction for discovery and compliance failures. That meant the later jury proceedings were primarily about damages, not whether he was liable in the first place.\n\nSo the crisp answer is: court default first; juries decided damages afterward.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 0.2,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1776760273.0,
+    "conversation": null,
+    "max_output_tokens": 512,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "effort": "none",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 199,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 81,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 280
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true
+  },
+  "cached": false
+}

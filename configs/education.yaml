@@ -1,0 +1,7 @@
+project_name: deception_memory_education
+seeds:
+  raw_path: data/seeds/demo_seeds.jsonl
+generation:
+  deception_families:
+    - identity_preserving
+    - protective

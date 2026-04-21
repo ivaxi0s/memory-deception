@@ -1,0 +1,80 @@
+{
+  "model_name": "gpt-5.4",
+  "text": "Dominion Voting Systems and Fox News **settled** the defamation lawsuit **before it went to a verdict**.\n\n- The settlement was announced in **April 2023**\n- Fox agreed to pay **$787.5 million**\n- The trial had already begun jury selection and was about to start opening statements, but the case ended **before the jury decided it**\n\nSo: **it did not go to a verdict; it was settled.**",
+  "raw_payload": {
+    "id": "resp_0f9c70684b7a1a960069e734e8db608190bd5ea3b26c33fafd",
+    "created_at": 1776760040.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5.4-2026-03-05",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_0f9c70684b7a1a960069e734e94d548190bfcb8b484cbeba07",
+        "content": [
+          {
+            "annotations": [],
+            "text": "Dominion Voting Systems and Fox News **settled** the defamation lawsuit **before it went to a verdict**.\n\n- The settlement was announced in **April 2023**\n- Fox agreed to pay **$787.5 million**\n- The trial had already begun jury selection and was about to start opening statements, but the case ended **before the jury decided it**\n\nSo: **it did not go to a verdict; it was settled.**",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": "final_answer"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 0.2,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 0.98,
+    "background": false,
+    "completed_at": 1776760042.0,
+    "conversation": null,
+    "max_output_tokens": 512,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": "in_memory",
+    "reasoning": {
+      "effort": "none",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 28,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 95,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 123
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true
+  },
+  "cached": false
+}
